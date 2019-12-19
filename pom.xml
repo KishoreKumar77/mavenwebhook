@@ -105,7 +105,6 @@
 					<path>/CounterWebApp</path>
 				</configuration>
 			</plugin>
-
 		</plugins>
 
 	</build>
